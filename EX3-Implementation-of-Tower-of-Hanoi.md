@@ -37,8 +37,8 @@ TOH(n,'A','B','C');
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/a4fc9e0d-41de-47e6-a022-9df6c2b5dca7)
 
+![Screenshot 2025-04-25 193942](https://github.com/user-attachments/assets/15dd4782-91f0-4052-845e-7614dfa43983)
 
 
 ## Result:
