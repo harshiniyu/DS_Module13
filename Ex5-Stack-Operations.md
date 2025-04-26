@@ -32,7 +32,7 @@ return stack[top--];
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/14e49307-f430-4b22-9fd7-c4c872c3221f)
+![Screenshot 2025-04-26 153344](https://github.com/user-attachments/assets/1657b49f-0bd6-425e-bdc5-49a4113e5685)
 
 
 ## Result:
