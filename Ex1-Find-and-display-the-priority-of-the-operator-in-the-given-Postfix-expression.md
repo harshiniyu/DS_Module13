@@ -82,7 +82,8 @@ return 0;
 ```
 
 ## Output:
-![WhatsApp Image 2025-04-26 at 15 13 01_3a6bf10e](https://github.com/user-attachments/assets/67b278d1-de8d-40b6-b910-bc865beb5859)
+![image](https://github.com/user-attachments/assets/b8f8725c-425a-47e2-802c-c7128a4c890c)
+
 
 
 
